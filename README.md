@@ -22,6 +22,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduargolo13@gmail.com)
 <hr/>
 
-#### Sou estudante de Engenharia da Computação na UNIFACS, atualmente estudando desenvolvimento web, com foco em front-end e Back-end.
-#### Amante da tecnologia e da programação. Ainda sou um "Júnior" nessa área, porém espero me desenvolver muito mais!🤓
-#### Fico grato pela pela atenção.😀
+<div>
+<p>🥳Sou estudante de Engenharia da Computação na UNIFACS, atualmente estudando desenvolvimento web, com foco em front-end e Back-end.<br>
+ 🤓Amante da tecnologia e da programação. Ainda sou um "Júnior" nessa área, porém espero me desenvolver muito mais!.<br>
+😀Fico grato pela atenção!<p>
+</div>
