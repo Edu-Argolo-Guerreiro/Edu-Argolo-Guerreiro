@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 👋
+### Eu sou Edu Guerreiro, também conhecido como "Zedy" em outras redes sociais 🎃.
 
-<!--
-**Edu-Argolo-Guerreiro/Edu-Argolo-Guerreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu-Argolo-Guerreiro&show_icons=true&theme=highcontrast)
+<hr/>
 
-Here are some ideas to get you started:
+## Tecnologias que uso no meu dia-dia💻:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+<img aling="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img aling="center" alt="css"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div><br/>
+
+### Ainda em aprendizagem 📖✏️:
+<div style="display: inline_block"><br/>
+<img aling="center" alt="javascript"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img aling="center" alt="python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
+
+## Caso queira entrar em contato comigo, aqui está as redes sociais acessíveis:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edu-g-532a24232/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduargolo13@gmail.com)
+<hr/>
+
+#### Amante da tecnologia e da programação. Ainda sou um "Júnior" nessa área, porém espero me desenvolver muito mais!🤓
+#### Fico grato pela pela atenção.😀
