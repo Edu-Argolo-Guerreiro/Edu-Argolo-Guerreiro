@@ -1,10 +1,5 @@
 ### Hi there! 👋
-### Eu sou Edu Guerreiro, também conhecido como "Zedy" em outras redes sociais 🎃.
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu-Argolo-Guerreiro&show_icons=true&theme=highcontrast) </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Argolo-Guerreiro&layout=compact)
-<hr/>
+### Eu sou Edu Guerreiro, também conhecido como "Zumber" em outras redes sociais 🎃.
 
 ## Tecnologias que uso no meu dia-dia💻:
 
